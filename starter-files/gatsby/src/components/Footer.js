@@ -12,7 +12,7 @@ import React from "react";
 // Note: 也可以寫成這樣
 const Footer = () => (
   <footer>
-    <p>&copy; 概資痞比薩 {new Date().getFullYear()}</p>
+    <p>&copy; Gatsby Pizza Boom {new Date().getFullYear()}</p>
   </footer>
 );
 export default Footer;
